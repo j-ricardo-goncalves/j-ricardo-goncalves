@@ -1,20 +1,12 @@
-# Hi, I'm Alfred.
-### About me
-I'm a first-year CS student at IST.
-<br>
-Current Autonomous System member at TFC.
-<br>
-I have particular interest in robotics, computer vision and low-level/OS.
+# hey, I'm Alfred
+*2nd-year CS (LEIC-A) @ IST Lisbon · Autonomous Systems @ TFC*
+
 <br>
 
-### Languagues and Frameworks 
-<div align="center">
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,opencv,c,cpp,rust,git,docker" height="50px"/>
-  </p>
-</div>
+<img align="left" height="180" src="https://github-readme-stats-chi-puce-18.vercel.app/api?username=j-ricardo-goncalves&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
 
-### Cools projects I have worked on
-None ... :(
+<img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=python&logoColor=b7d364" /> <img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=cplusplus&logoColor=b7d364" /> <img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=c&logoColor=b7d364" /> <img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=rust&logoColor=b7d364" />
 
-![GitHub stats](https://github-readme-stats-chi-puce-18.vercel.app/api?username=j-ricardo-goncalves&show_icons=true&theme=great-gatsby)
+<img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=opencv&logoColor=b7d364" /> <img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=docker&logoColor=b7d364" /> <img height="45" src="https://img.shields.io/badge/-0a0f0b?style=for-the-badge&logo=git&logoColor=b7d364" />
+
+<br clear="left"/>
